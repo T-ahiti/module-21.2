@@ -24,3 +24,8 @@ const lines = [
     'tumi bondhu kala pakhi ami jeno ki',
     ' boshonto kale tomay dekhte parini'
   ]
+
+
+// join korle eklsathe hoy and chaile jei punctuation diye joined hobe oita fix korte pari
+  const newSong = lines.join(';')
+  console.log(newSong)
