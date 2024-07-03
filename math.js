@@ -32,4 +32,12 @@ console.log(useFloor)
 // random number dibe hudai
 console.log(Math.random())
 
+// jodi 1 to 100 er modhhe number chai taile fx kore dite parbo
+const random = Math.random()*100
+console.log(random)
+
+// purnoshongkha chaile math round er modhhe abar math random anbo
+const random2 = Math.round(Math.random()*100)
+console.log(random2)
+
 
