@@ -13,6 +13,14 @@ else{
    console.log('YOU GUYS STAY APART')
 }
 
+
+// ----------------------------
 const number = 2.56432523
 const fullNumber = Math.round(number)
 console.log(fullNumber)
+
+// ceil dile cilling e uthe, means er  uporer shongkha ke ney
+const num3 = 2.001 
+const useCeil = Math.ceil(num3)
+console.log(useCeil)
+
