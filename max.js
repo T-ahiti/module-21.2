@@ -10,3 +10,7 @@ if(jim > dela && jim > chinku){
 else if(dela > jim && dela > chinku){
     console.log('dela cake pabe')
 }
+
+else{
+    console.log('chinku cake pabe')
+}
