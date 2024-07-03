@@ -24,3 +24,12 @@ const num3 = 2.001
 const useCeil = Math.ceil(num3)
 console.log(useCeil)
 
+// nicher purnoshongkha
+const num4 = 2.0321 
+const useFloor = Math.floor(num4)
+console.log(useFloor)
+
+// random number dibe hudai
+console.log(Math.random())
+
+
