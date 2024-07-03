@@ -21,3 +21,10 @@ if( 'sada' !==-1){
 else{
     console.log('does not Exist')
 }
+
+
+// starts with
+console.log(lyrics.startsWith('kala'))
+console.log(lyrics.startsWith('tumi'))
+
+// ends with ache
