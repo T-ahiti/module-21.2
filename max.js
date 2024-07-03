@@ -14,3 +14,7 @@ else if(dela > jim && dela > chinku){
 else{
     console.log('chinku cake pabe')
 }
+
+// -------------- easy way, math min o ache
+
+Math.max(45, 324, 352, 58, 698, 57)
